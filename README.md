@@ -28,7 +28,6 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
 
 # Navigate to the project directory
 cd your-repo-name
@@ -52,6 +51,6 @@ Add blog or testimonial section
 📫 Connect With Me
 LinkedIn: linkedin.com/in/nikhilborude
 
-GitHub: github.com/your-username
+GitHub: github.com/borude000
 
-Email: your-email@example.com
+Email: nikhilborude000@gmail.com
